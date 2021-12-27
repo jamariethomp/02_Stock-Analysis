@@ -2,14 +2,14 @@
 
 ## Overview
 
-This analysis seeks to identify publicly traded green energy companies whose stocks yield promising returns. The intent is to advise the average investor on which green energy companies may be worth investing in based on their return performance over the course of a given year. A secondary purpose of this report is to note the improvements in run time of the analysis provided by refactored VBA code.
+This analysis seeks to identify publicly traded green energy companies whose stocks yield promising returns. The intent is to advise the average investor on which green energy companies may be worth investing in based on the companies' return performance over the course of a given year. A secondary purpose of this report is to note the improvements in run time of the analysis provided by refactored VBA code.
 ## Results
 
 ### Stock Performance
 
 For this report, stock performance for twelve companies was analyzed for calendar years 2017 and 2018:    
 
-!(https://1drv.ms/u/s!Atn0xQEMWw1l2hH6zWAgHIAk_lwj)
+!(https://bn1304files.storage.live.com/y4mgUlbJ-Dno7GtHL6nutVAJNlLFnurdaph4gvMtLoCkvx-YdnfP9vxik0W9aOECMbr0cKJ6RFhLsHZzEckl6ugRfg5i9BXKOgx92euTi8jvCne1i3WMNOzSa0NFlFLWcydGe3YcQx7I2bFt9mdaYg8okm9Ak22N3f2e49e6vYMA-gfiN7OduTu-YXMRDynCU2f?width=313&height=301&cropmode=none)
 !(https://1drv.ms/u/s!Atn0xQEMWw1l2hLktL90gv0KnLEw)
 
 As seen above, the two companies with consistently positive rates of return for their stock value are ENPH and RUN.  Both appear to be worthy companies in which to invest. 
