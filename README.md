@@ -20,19 +20,19 @@ While many of the other stocks appeared to have substantial returns in 2017, suc
 
 A secondary purpose of this report is to summarize the success of the refactored code used to run analyses on both sets of data.  With the original code, the run time was a bit sluggish:
 
-!(https://1drv.ms/u/s!Atn0xQEMWw1l2hl4MkrIbMWhATo1)
+![VB_Challenge_pre-refactored_code.png](https://github.com/jamariethomp/stock-analysis/blob/main/images/VB_Challenge_pre-refactored_code.png)
 
 Under the refactored code the run time improved significantly, which will come in especially handy once more data needs to be analyzed:
 
-!(https://1drv.ms/u/s!Atn0xQEMWw1l2hrqPI9uTKrqa2vt)
+![VB_Challenge_post-refactored_code.png](https://github.com/jamariethomp/stock-analysis/blob/main/images/VB_Challenge_post-refactored_code.png)
 
 One significant change that was made was to the code was the removal of nested loops in favor of reiterating the ticker index by increasing the value at the end of each loop:
 
-!(https://1drv.ms/u/s!Atn0xQEMWw1l2hfKJVkqoKj4JSTy)
+![ticker_index_screenshot.png](https://github.com/jamariethomp/stock-analysis/blob/main/images/ticker_index_screenshot.png)
 
 Initializing the output arrays as dynamic variables also aided in the improvement of the run time:
 
-!(https://1drv.ms/u/s!Atn0xQEMWw1l2hiodGh6ilFWu-b5)
+![dynamic_arrays_screenshot.png](https://github.com/jamariethomp/stock-analysis/blob/main/images/dynamic_arrays_screenshot.png)
 
 Clearly, where loops can be reduced, code can potentially be more efficient.
 ## Summary
