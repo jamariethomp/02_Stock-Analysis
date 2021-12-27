@@ -9,7 +9,7 @@ This analysis seeks to identify publicly traded green energy companies whose sto
 
 For this report, stock performance for twelve companies was analyzed for calendar years 2017 and 2018:    
 
-!(https://bn1304files.storage.live.com/y4mgUlbJ-Dno7GtHL6nutVAJNlLFnurdaph4gvMtLoCkvx-YdnfP9vxik0W9aOECMbr0cKJ6RFhLsHZzEckl6ugRfg5i9BXKOgx92euTi8jvCne1i3WMNOzSa0NFlFLWcydGe3YcQx7I2bFt9mdaYg8okm9Ak22N3f2e49e6vYMA-gfiN7OduTu-YXMRDynCU2f?width=313&height=301&cropmode=none)
+![VB_Challenge_2017_table.png](https://1drv.ms/u/s!Atn0xQEMWw1l2hH6zWAgHIAk_lwj)
 !(https://1drv.ms/u/s!Atn0xQEMWw1l2hLktL90gv0KnLEw)
 
 As seen above, the two companies with consistently positive rates of return for their stock value are ENPH and RUN.  Both appear to be worthy companies in which to invest. 
